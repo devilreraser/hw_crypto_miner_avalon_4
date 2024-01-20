@@ -1,0 +1,59 @@
+*PADS-ECO-V9.5-MILS*
+*REMARK*  old file: D:\Projects\AltiumProjects\Avalon_4_Rev01\PADS\Avalon_4_Rev01\ppc5CFB.asc
+*REMARK*  new file: D:\Projects\AltiumProjects\Avalon_4_Rev01\PADS\Avalon_4_Rev01\Block.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 01.10.2014 16:16:34
+
+PART DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+Ref-des	Part-type:Decal                           Ref-des	Part-type:Decal
+J4   PTH_CON_CVILUX-CB91062H100:PTH_CON_CVILUX-CB91062H100   J4   PTH_CON_WR-MRC4-6P:PTH_CON_WR-MRC4-6P
+J5   PTH_CON_CVILUX-CB91062H100:PTH_CON_CVILUX-CB91062H100   J5   PTH_CON_WR-MRC4-6P:PTH_CON_WR-MRC4-6P
+J6   PTH_CON_CVILUX-CB91062H100:PTH_CON_CVILUX-CB91062H100   J6   PTH_CON_WR-MRC4-6P:PTH_CON_WR-MRC4-6P
+J7   PTH_CON_CVILUX-CB91062H100:PTH_CON_CVILUX-CB91062H100   J7   PTH_CON_WR-MRC4-6P:PTH_CON_WR-MRC4-6P
+
+NET DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+
+SWAPPED GATE DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+SWAPPED PIN DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+
+UNMATCHED NET PINS IN OLD DESIGN
+--------------------------------
+12V                 J4.4	J5.4	J6.4	J7.4	J6.6	J7.6	
+                    J5.6	J4.6	
+GND                 J4.1	J5.1	J6.1	J7.1	J4.3	J5.3	
+                    J6.3	J7.3	
+
+UNMATCHED NET PINS IN NEW DESIGN
+--------------------------------
+12V                 J4.1	J5.1	J6.1	J7.1	J4.3	J5.3	
+                    J6.3	J7.3	
+GND                 J4.4	J5.4	J6.4	J7.4	J4.6	J5.6	
+                    J6.6	J7.6	
+
+ATTRIBUTE DIFFERENCES
+---------------------
+Attribute Level	[ OLD DESIGN Parent -> NEW DESIGN Parent ]
+
+          Attribute Name           Old Value                New Value
+PART    J4 -> J4
+          Value                    CB91062H100              WR-MPC4
+
+PART    J5 -> J5
+          Value                    CB91062H100              WR-MPC4
+
+PART    J6 -> J6
+          Value                    CB91062H100              WR-MPC4
+
+PART    J7 -> J7
+          Value                    CB91062H100              WR-MPC4
+
+

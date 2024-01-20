@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:36:04 On 08.10.2014
+
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [220uF] of PCB Document [Avalon_4_Rev01.PcbDoc]
+   Generated File[Pick Place for Avalon_4_Rev01(220uF).txt]
+   Generated File[Pick Place for Avalon_4_Rev01(220uF).csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 16:36:06 On 08.10.2014
